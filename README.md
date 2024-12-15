@@ -1,4 +1,5 @@
 # ICS321-SaudiRailways
+## By: Mohammad Al-Amri, Naif Al-Enazi, Salman Al-Amri. 
 A project for the coure 'ICS-321' in KFUPM, which focuses on implementing a useful DBMS into a Saudi Railway reservation service.A project for the coure 'ICS-321' in KFUPM, which focuses on implementing a useful DBMS into a Saudi Railway reservation service.
 
 To effectively run the project, download xampp and start Apache & MySQL.
